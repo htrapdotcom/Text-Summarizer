@@ -1,5 +1,14 @@
-youtube_transcript_api
 streamlit
-google-generativeai
 python-dotenv
-pathlib
+youtube-transcript-api
+fpdf
+streamlit-player
+langchain
+langchain-google-genai
+langchain-openai
+langchain-community
+faiss-cpu
+requests
+pyperclip
+google-generativeai
+openai
