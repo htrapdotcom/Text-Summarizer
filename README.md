@@ -12,6 +12,7 @@ This Streamlit application provides a comprehensive tool for working with YouTub
 
 It leverages the YouTube Transcript API, LangChain, and either Google Gemini or OpenAI for its AI functionalities.
 
+**main.py is the completed version; app.py is the first version of this project.
 ---
 
 ## Features
